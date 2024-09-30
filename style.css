@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 200px;
+    text-align: center;
+}
+
+.button {
+    display: block;
+}
+
+.button button {
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #282A35;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.score {
+    margin: 30px;
+    font-weight: bold;
+}
